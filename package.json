@@ -11,15 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
-    "excel4node": "^1.7.2",
     "express": "^4.17.2",
     "express-fileupload": "^1.2.1",
     "fs": "^0.0.1-security",
-    "is-json": "^2.0.1",
-    "json2xls": "^0.1.2",
+    "googleapis": "^92.0.0",
     "loadash": "^1.0.0",
     "node": "^17.3.0",
-    "nodemon": "^2.0.15",
-    "xlsx": "^0.17.4"
+    "nodemon": "^2.0.15"
   }
 }
